@@ -5,7 +5,7 @@
     "main": "webpack.common.js",
     "scripts": {
         "start-dev": "webpack-dev-server --config webpack.dev.js --open",
-        "start": "webpack --config webpack.prod.js --output public"
+        "start": "webpack --config webpack.prod.js"
     },
     "author": "Yudha Kurniawan",
     "license": "ISC",
